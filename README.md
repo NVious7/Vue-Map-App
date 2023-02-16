@@ -1,40 +1,49 @@
-# Map-API-App
+# Vue-Map-App
 
-This template should help get you started developing with Vue 3 in Vite.
+## Table of contents
 
-## Recommended IDE Setup
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Overview
 
-## Type Support for `.vue` Imports in TS
+### The challenge
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+Users should be able to:
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+- View an interactive map
+- Search a Location
+- Click on Location Search and a Marker should show up on Location in Map
+- Should have a Mobile View
 
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+### Links
 
-## Customize configuration
+- Live Site URL: [LIVE WEB PAGE](https://nvious7-nft-preview-card-component.netlify.app/)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## My process
 
-## Project Setup
+### Built with
 
-```sh
-npm install
-```
+- Vue 3
+- Leaflet
+- Vuetify
+- Semantic HTML5 markup
+- CSS custom properties
+- SASS
+- Desktop-first workflow
 
-### Compile and Hot-Reload for Development
+**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
-```sh
-npm run dev
-```
+### What I learned
 
-### Type-Check, Compile and Minify for Production
+I learned how to use Vue.js instead of React.js as well as Leaflet maps similar to Google's. I also learned how to use Vuetify instead of Material UI due to building this application on Vue and not React.
 
-```sh
-npm run build
-```
+### Continued development
+
+In the future, I would love to have Geolocation, I do have a snippet of commented code using Geolocation, however I have not implemented a marker system on the Geolocation. I would also like to use Google Maps in another application to try it as well as involve Autocorrect. 
+
