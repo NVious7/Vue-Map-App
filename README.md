@@ -39,8 +39,6 @@ Users should be able to:
 - SASS
 - Desktop-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 I learned how to use Vue.js instead of React.js as well as Leaflet maps similar to Google's. I also learned how to use Vuetify instead of Material UI due to building this application on Vue and not React.
