@@ -12,6 +12,8 @@
 
 ## Overview
 
+This started as a collabrative map app with a few friends, you can see this in the Repo link in the description. I ended up coding my entire application from scratch individually and then pushed to a developmental branch with my name and then created an individual Repo here for others to see my code. I wanted to learn how to use Vue instead of React to add to my resume and skillset as well as use a Map api such as Google but instead used Leaflet. The goal was to make an interactive map, a location search, and a marker on a chosen location. 
+
 ### The challenge
 
 Users should be able to:
@@ -23,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [LIVE WEB PAGE](https://nvious7-nft-preview-card-component.netlify.app/)
+- Live Site URL: [LIVE WEB PAGE](https://nvious7-vue-map-app.netlify.app/)
 
 ## My process
 
